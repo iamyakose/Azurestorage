@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\iamyakose\\AzureStorageTest\\AzureStorageTest.csproj": {}
+    "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\AzureStorageTest.csproj": {}
   },
   "projects": {
-    "C:\\iamyakose\\AzureStorageTest\\AzureStorageTest.csproj": {
+    "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\AzureStorageTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\iamyakose\\AzureStorageTest\\AzureStorageTest.csproj",
+        "projectUniqueName": "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\AzureStorageTest.csproj",
         "projectName": "AzureStorageTest",
-        "projectPath": "C:\\iamyakose\\AzureStorageTest\\AzureStorageTest.csproj",
+        "projectPath": "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\AzureStorageTest.csproj",
         "packagesPath": "C:\\Users\\yakos\\.nuget\\packages\\",
-        "outputPath": "C:\\iamyakose\\AzureStorageTest\\obj\\",
+        "outputPath": "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

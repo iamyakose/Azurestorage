@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSjBydZxIMUDNRSlucPk+s7EiCB7SO3zxP8CKvtYH0oCPl7jS6vWIvkNdqHo1A2UAxZ5pjcJCpLf2Bbk+Wh+Zw==",
+  "dgSpecHash": "sEUeKSWnDuPuzfXeHL4YD1XTkg9uTt5XX8ERmol26Uhj71Ilo7aN6WieJd9/Aav2oW/l0/Smb7QAHuSZXQVvlQ==",
   "success": true,
-  "projectFilePath": "C:\\iamyakose\\AzureStorageTest\\AzureStorageTest.csproj",
+  "projectFilePath": "C:\\iamyakose\\AzureStorageTest\\tobedeleted\\Azurestorage\\AzureStorageTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yakos\\.nuget\\packages\\microsoft.azure.cosmos.table\\1.0.7\\microsoft.azure.cosmos.table.1.0.7.nupkg.sha512",
     "C:\\Users\\yakos\\.nuget\\packages\\microsoft.azure.documentdb.core\\2.10.0\\microsoft.azure.documentdb.core.2.10.0.nupkg.sha512",
